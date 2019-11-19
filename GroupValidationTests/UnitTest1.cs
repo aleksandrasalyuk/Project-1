@@ -13,7 +13,6 @@ namespace GroupValidationTests
         public void VerifyThatOblectIsNullWhenPropertyIsNull(string value, string value2)
         {
             Group createdGroup = Group.CreateGroup(value, value2, out string error);
-            //Warn.If(createdGroup, Is.EqualTo(null));
             Assert.IsNull(createdGroup);
             
         }
