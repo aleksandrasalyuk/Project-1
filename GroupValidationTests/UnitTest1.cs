@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using GroupValidation;
-//comment
+// fetch data
 
 namespace GroupValidationTests
 {
