@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using GroupValidation;
-// fetch data
+// git pull
 
 namespace GroupValidationTests
 {
