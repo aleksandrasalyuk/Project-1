@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using GroupValidation;
-// git pull
+// git pull diverg
 
 namespace GroupValidationTests
 {
